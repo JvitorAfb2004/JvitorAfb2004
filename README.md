@@ -28,7 +28,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho c
 ---
 
 ## 📫 Vamos Conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-819186229))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-819186229))
 
 
 ---
