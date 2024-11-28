@@ -4,7 +4,7 @@
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento Frontend. Tenho experiência em construir interfaces modernas e responsivas, com foco em criar experiências de usuário envolventes e intuitivas. Minhas principais habilidades envolvem:
 
 - 🖥️ **Frontend:** HTML, CSS, JavaScript, Vue.js, React.js, Vuetify, FlutterFlow
-- ☁️ **Backend:** Firebase, Node.js
+- ☁️ **Backend:** Firebase, Node.js, MySQL, PostgreSQL
 
 > Meu objetivo é criar interfaces intuitivas e experiências de usuário envolventes, alavancando boas práticas de design para desenvolver soluções eficientes e acessíveis. Estou sempre buscando aprender, evoluir e contribuir para projetos que desafiem minha capacidade.
 
@@ -23,6 +23,8 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho c
   <img src="https://img.shields.io/badge/FlutterFlow-%2346E1B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/mysql-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Mysql"/>
+    <img src="https://img.shields.io/badge/postgresql-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ---
