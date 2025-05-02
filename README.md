@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Vitor
 
 ## Sobre mim
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento Frontend. Tenho experiência em construir interfaces modernas e responsivas, com foco em criar experiências de usuário envolventes e intuitivas. Minhas principais habilidades envolvem:
+Atualmente atuo como desenvolvedor Full Stack. Tenho experiência em construir interfaces modernas e responsivas, além de desenvolver soluções backend robustas. Minhas principais habilidades incluem criar experiências de usuário envolventes e intuitivas, integrar APIs e trabalhar com arquiteturas completas de sistemas.
 
 - 🖥️ **Frontend:** HTML, CSS, JavaScript, Vue.js, React.js, Vuetify, FlutterFlow
 - ☁️ **Backend:** Firebase, Node.js, MySQL, PostgreSQL
